@@ -1,0 +1,6 @@
+{
+    "tenantID":"",
+    "clientID":"",
+    "clientSecret":"",
+    "eventhubNamespaceURI": ""
+}
