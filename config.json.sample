@@ -2,5 +2,6 @@
     "tenantID":"",
     "clientID":"",
     "clientSecret":"",
-    "eventhubNamespaceURI": ""
+    "eventhubNamespaceURI": "",
+    "pemFilepath": ""
 }
